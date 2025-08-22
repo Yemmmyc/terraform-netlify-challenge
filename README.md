@@ -37,9 +37,10 @@ terraform-netlify-challenge/
 Setup Instructions
 1. Clone the repository:
 git clone https://github.com/Yemmmyc/terraform-netlify-challenge.git
+
 cd terraform-netlify-challenge
 
-2. Terraform Variables
+3. Terraform Variables
 netlify_token: Netlify personal access token (required)
 
 site_name: Name for the new Netlify site (default: yemisi-netlify-site)
