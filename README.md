@@ -33,8 +33,7 @@ Setup Instructions
 git clone https://github.com/Yemmmyc/terraform-netlify-challenge.git
 cd terraform-netlify-challenge
 
-2. Copy terraform.tfvars.example to terraform.tfvars:
-cp terraform.tfvars.example terraform.tfvars
+2. cretae terraform.tfvars:
 
 3. Update terraform.tfvars if needed by adding your Netlify personal access token. Note: For this minimal setup, terraform.tfvars is optional since defaults for site ID and URL are provided.
 
